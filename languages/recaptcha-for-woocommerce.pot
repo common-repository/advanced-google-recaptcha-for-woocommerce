@@ -1,0 +1,482 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: reCaptcha for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-14 06:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.1\n"
+"X-Domain: recaptcha-for-woocommerce"
+
+#: includes/class-wc-recaptcha-for-woocommerce-frontend.php:251
+#: includes/class-wc-recaptcha-for-woocommerce-frontend.php:276
+msgid ""
+"<strong>Error:</strong> Please complete the reCaptcha to verify that you are "
+"not a robot."
+msgstr ""
+
+#: recaptcha-for-woocommerce.php:52
+msgid "<strong>reCaptcha for WooCommerce</strong> is an add-on of "
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:728
+msgid "Afrikaans"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:729
+msgid "Amharic"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:727
+msgid "Arabic"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:730
+msgid "Armenian"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:726
+msgid "Auto Detect"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:731
+msgid "Azerbaijani"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:732
+msgid "Basque"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:733
+msgid "Bengali"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:734
+msgid "Bulgarian"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:735
+msgid "Catalan"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:736
+msgid "Chinese (Hong Kong)"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:737
+msgid "Chinese (Simplified)"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:738
+msgid "Chinese (Traditional)"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:143
+msgid "Compact"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:739
+msgid "Croatian"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:740
+msgid "Czech"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:741
+msgid "Danish"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:125
+msgid "Dark"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:742
+msgid "Dutch"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:247
+msgid "Enable Checkout reCaptcha"
+msgstr ""
+
+#. Description of the plugin
+msgid "Enable Google reCaptcha to protect your eCommerce site against spam."
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:185
+msgid "Enable Login reCaptcha"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:226
+msgid "Enable Password Reset reCaptcha"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:205
+msgid "Enable Register reCaptcha"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:743
+msgid "English (UK)"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:744
+msgid "English (US)"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:745
+msgid "Estonian"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:746
+msgid "Filipino"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:747
+msgid "Finnish"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:748
+msgid "French"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:749
+msgid "French (Canadian)"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:750
+msgid "Galician"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:26
+msgid "General"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:751
+msgid "Georgian"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:752
+msgid "German"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:753
+msgid "German (Austria)"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:754
+msgid "German (Switzerland)"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:716
+msgid "Get Pro Features"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:79
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:107
+msgid ""
+"Get the secret key from <a href=\"https://www.google."
+"com/recaptcha/admin/create\" target=\"_blank\">here.</a>"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:65
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:93
+msgid ""
+"Get the site key from <a href=\"https://www.google."
+"com/recaptcha/admin/create\" target=\"_blank\">here.</a>"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:755
+msgid "Greek"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:756
+msgid "Gujarati"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:757
+msgid "Hebrew"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:758
+msgid "Hindi"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://wpxpress.net"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://wordpress.org/plugins/advanced-google-recaptcha-for-woocommerce/"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:759
+msgid "Hungarain"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:760
+msgid "Icelandic"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:761
+msgid "Indonesian"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:762
+msgid "Italian"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:763
+msgid "Japanese"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:764
+msgid "Kannada"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:765
+msgid "Korean"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:766
+msgid "Laothian"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:767
+msgid "Latvian"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:124
+msgid "Light"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:768
+msgid "Lithuanian"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:769
+msgid "Malay"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:770
+msgid "Malayalam"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:771
+msgid "Marathi"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:772
+msgid "Mongolian"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:142
+msgid "Normal"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:773
+msgid "Norwegian"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:774
+msgid "Persian"
+msgstr ""
+
+#: includes/class-wc-recaptcha-for-woocommerce-frontend.php:201
+#: includes/class-wc-recaptcha-for-woocommerce-frontend.php:229
+msgid "Please complete the reCaptcha to verify that you are not a robot."
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:775
+msgid "Polish"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:776
+msgid "Portuguese"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:777
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:778
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: includes/class-wc-recaptcha-for-woocommerce-backend.php:84
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:14
+msgid "reCaptcha"
+msgstr ""
+
+#. Name of the plugin
+msgid "reCaptcha for WooCommerce"
+msgstr ""
+
+#: includes/class-wc-recaptcha-for-woocommerce-backend.php:83
+msgid "reCaptcha For WooCommerce Settings"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:44
+msgid "reCaptcha for WooCommerce Settings"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:157
+msgid "reCaptcha language"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:139
+msgid "reCaptcha size"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:121
+msgid "reCaptcha theme"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:56
+msgid "reCaptcha v2 (checkbox)"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:57
+msgid "reCaptcha v3 (no checkbox)"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:53
+msgid ""
+"reCaptcha v3 does not show any challenge to solve like I am not robot etc. "
+"ReCaptcha v3 uses a behind-the-scenes scoring system to detect abusive "
+"traffic, and lets you decide the minimum passing score."
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:52
+msgid "reCaptcha version"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:779
+msgid "Romanian"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:780
+msgid "Russian"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:78
+msgid "Secret Key v2"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:106
+msgid "Secret Key v3"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:781
+msgid "Serbian"
+msgstr ""
+
+#: includes/class-wc-recaptcha-for-woocommerce-backend.php:65
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:782
+msgid "Sinhalese"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:64
+msgid "Site Key v2"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:92
+msgid "Site Key v3"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:783
+msgid "Slovak"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:784
+msgid "Slovenian"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:785
+msgid "Spanish"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:786
+msgid "Spanish (Latin America)"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:787
+msgid "Swahili"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:788
+msgid "Swedish"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:789
+msgid "Tamil"
+msgstr ""
+
+#. Author of the plugin
+msgid "Tanvirul Haque"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:790
+msgid "Telugu"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:791
+msgid "Thai"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:45
+msgid ""
+"The following options control the \"reCaptcha for WooCommerce\" extension."
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:792
+msgid "Turkish"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:793
+msgid "Ukrainian"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:794
+msgid "Urdu"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:795
+msgid "Vietnamese"
+msgstr ""
+
+#: recaptcha-for-woocommerce.php:54
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:27
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:241
+msgid "WooCommerce Checkout"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:179
+msgid "WooCommerce Login"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:220
+msgid "WooCommerce Password Reset"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:199
+msgid "WooCommerce Register"
+msgstr ""
+
+#: includes/admin/class-wc-recaptcha-for-woocommerce-settings.php:796
+msgid "Zulu"
+msgstr ""

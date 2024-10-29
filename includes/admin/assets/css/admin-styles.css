@@ -1,0 +1,10 @@
+[data-rfw_dependency]:not(.dependency-show) {
+    display: none;
+}
+
+.woo-recaptcha-form-table {
+    background: #fff;
+    display: block;
+    padding: 5px 20px;
+    border-radius: 3px;
+}
